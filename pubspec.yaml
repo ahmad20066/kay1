@@ -1,0 +1,30 @@
+name: kay_store
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  dio: ^5.3.4
+  get_storage: ^2.1.1
+  image_picker: ^1.0.4
+  connectivity_plus: ^5.0.2
+  flutter_screenutil: ^5.9.0
+  intl: ^0.18.1
+  file_picker: ^6.1.1
+  flutter_svg: ^2.0.9  
+  carousel_slider: ^4.2.1
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
